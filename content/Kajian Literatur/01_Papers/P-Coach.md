@@ -1,0 +1,31 @@
+---
+type: paper
+status: explored  # explored | deep-read
+tags: [paper]
+konferensi: 
+tahun: 
+keywords: 
+---
+
+# 📄 P-Coach
+
+## 📌 Abstrak
+
+
+## 🔑 Keywords Utama
+- 
+- 
+- 
+
+## 🎯 Problem yang Dipecahkan
+
+
+## 💡 Solusi yang Ditawarkan
+
+
+## 🔗 Paper Terkait (dari references mereka)
+- 
+- 
+
+## 💭 Kesan & Potensi
+- 
