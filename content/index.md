@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz 5
+title: Selamat Datang 
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+Ini adalah repository yang menghubungkan file progress pengerjaan TA. Mulai dari eksplorasi, pengumpulan paper, mencari irisan topik, dan yang lainnya. Diupdate berkala ketika progress baru muncul.
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+Dimiliki oleh [Ravif Gayuh Wicaksono (24/540583/PA/22953)](https://github.com/ravifposeur/)
