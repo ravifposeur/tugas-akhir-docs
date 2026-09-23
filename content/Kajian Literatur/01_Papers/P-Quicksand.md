@@ -8,7 +8,7 @@ tahun: "2025"
 keywords: resource stranding, granular computing, resource proclets, scheduler
 ---
 
-# 📄 P-Quicksand
+# 📄 Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing
 
 **Link:** https://www.usenix.org/conference/nsdi25/presentation/ruan
 **Sumber:** USENIX NSDI 2025
@@ -33,4 +33,4 @@ Resource Proclets, sebuah unit scheduling granular yang hanya makan satu jenis r
 - 
 
 ## 💭 Kesan & Potensi
-- 
+- Ide dekomposisi resource bisa mengurangi pemborosan besar

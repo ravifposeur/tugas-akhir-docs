@@ -37,7 +37,7 @@ tags: [references, keywords]
 
 ---
 
-##  5. [[Kajian Literatur/01_Papers/P-Coach|P-Coach]]
+##  5. [[Kajian Literatur/01_Papers/P-Coach|Coach]]
 - oversubscription resource
 - pola temporal pemakaian VM
 - VM scheduling

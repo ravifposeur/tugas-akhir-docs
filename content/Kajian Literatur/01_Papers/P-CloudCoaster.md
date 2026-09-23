@@ -7,7 +7,7 @@ konferensi: arXiv
 tahun: "2019"
 keywords: hybrid scheduler, dynamic cluster, transient servers, resource cost optimization
 ---
-# 📄 P-CloudCoaster
+# 📄 CloudCoaster: Transient-aware Bursty Datacenter Workload Scheduling
 
 **Link:** https://arxiv.org/abs/1907.02162
 **Sumber:** arXiv 2019
